@@ -1,4 +1,4 @@
-# Topsis-vishesh-102316085
+# Topsis-tanmay-102316072
 
 A Python package implementing TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) for multi-criteria decision making.
 
@@ -12,7 +12,7 @@ you can try it on - https://topsis-web-service-swbs.onrender.com/
 
 ### From PyPI (after publishing)
 ```bash
-pip install Topsis-vishesh-102316085
+pip install Topsis-tanmay-102316072
 ```
 
 ### From source
@@ -46,7 +46,7 @@ topsis data.csv "1,1,1,2" "+,+,-,+" output.csv
 ### Python Library
 
 ```python
-from Topsis_vishesh_102316085 import topsis
+from Topsis_tanmay-102316072 import topsis
 
 # Perform TOPSIS analysis
 result_df = topsis(
@@ -101,4 +101,4 @@ MIT License
 
 ## Author
 
-Vishesh (Roll No: 102316085)
+Tanmay (Roll No: 102316072)
